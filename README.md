@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello :wave:, I'm Andrei-Daniel Petrica, 
+### Please call me Daniel. 
+
+I'm a software developer focusing on web technologies. 
+In my free time I like to contribute to some opensource projets. 
+Currently working for Mow srl in Reggio Emilia, Italy.
 
 <!--
 **danielpetrica/danielpetrica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
