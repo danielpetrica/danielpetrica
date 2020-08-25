@@ -2,7 +2,9 @@
 ### Please call me Daniel. 
 
 I'm a software developer focusing on web technologies. 
+
 In my free time I like to contribute to some opensource projets. 
+
 Currently working for Mow srl in Reggio Emilia, Italy.
 
 <!--
