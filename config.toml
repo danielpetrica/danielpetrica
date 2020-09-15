@@ -64,25 +64,25 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[params.social]]
     name = "github"
     url = "https://github.com/danielpetrica"
- 
+
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/petricadaniel/"
- 
+
   [[params.social]]
     name = "stackoverflow"
     url = "https://stackoverflow.com/users/4928374/"
- 
+
   [[params.social]]
     name = "keybase"
     url = "https://keybase.io/danielpetrica"
 
 [menu]
-
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
+#
+#  [[menu.main]]
+#    name = "Posts"
+#    url = "posts/"
+#    weight = 10
 
   [[menu.main]]
     name = "About"
