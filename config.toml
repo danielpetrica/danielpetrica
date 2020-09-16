@@ -32,8 +32,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  # description = ""
-  # images = [""]
+  description = "Andrei Daniel Petrica Full Stack Developer in Reggio Emilia, Italy. Working with Laravel, Vue.js and Sql"
+  images = [
+    "/photo.jpg"
+  ]
   themeColor = "#494f5c"
 
   homeSubtitle = "My place on the web to call my own home 🏡"
