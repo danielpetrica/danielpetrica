@@ -12,6 +12,14 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
+defaultContentLanguageInSubdir= true
+[languages]
+  [languages.en]
+    weight = 1
+
+  [languages.it]
+    weight = 1
+
 
 [author]
   name = "Daniel, Andrei-Daniel Petrica"
@@ -33,9 +41,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Metadata mostly used in document's head
   description = "Andrei Daniel Petrica Full Stack Developer in Reggio Emilia, Italy. Working with Laravel, Vue.js and Sql"
-  images = [
-    "/photo.jpg"
-  ]
+  images = [ "/photo.jpg" ]
   themeColor = "#494f5c"
 
   homeSubtitle = "My place on the web to call my own home 🏡"
