@@ -10,3 +10,4 @@
 				<a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
 			{{- end }}
 		{{- end }}
+		{{partialCached 'languageSwitch.html'}}
