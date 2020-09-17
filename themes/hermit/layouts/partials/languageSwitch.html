@@ -11,8 +11,7 @@
                   hreflang="{{ .Lang }}"
                   lang="{{ .Lang }}"
                   href="{{ $translation.Permalink | relURL }}"
-                >{{
-                    .Params.languageFlag }}</a>
+                >{{ .Params.languageFlag }}</a>
             {{ else }}
                 <a
                   rel="alternate"
@@ -20,8 +19,7 @@
                   hreflang="{{ .Lang }}"
                   lang="{{ .Lang }}"
                   href="{{ $translation.Permalink | relURL }}"
-                >{{
-                    .Params.languageFlag }}</a>
+                >{{ .Params.languageFlag }}</a>
             {{ end }}
         {{- end }}
     {{- end }}
