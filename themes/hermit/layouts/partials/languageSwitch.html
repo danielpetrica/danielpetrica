@@ -5,9 +5,23 @@
     {{- range sort $siteLanguages "Weight" "asc" }}
         {{- if eq $translation.Lang .Lang }}
             {{ if eq $pageLang .Lang}}
-                <a class="flagselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageFlag }}</a>
+                <a
+                  rel="alternate"
+                  class="flagselect"
+                  hreflang="{{ .Lang }}"
+                  lang="{{ .Lang }}"
+                  href="{{ $translation.Permalink | relURL }}"
+                >{{
+                    .Params.languageFlag }}</a>
             {{ else }}
-                <a class="flagnoselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageFlag }}</a>
+                <a
+                  rel="alternate"
+                  class="flagnoselect"
+                  hreflang="{{ .Lang }}"
+                  lang="{{ .Lang }}"
+                  href="{{ $translation.Permalink | relURL }}"
+                >{{
+                    .Params.languageFlag }}</a>
             {{ end }}
         {{- end }}
     {{- end }}

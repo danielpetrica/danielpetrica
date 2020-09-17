@@ -4,10 +4,11 @@
 				<span class="sub-menu">
 				{{- range .Children }}
 					<a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+					{{partialCached "languageSwitch.html" . }}
 				{{- end }}
 				</span>
 			{{- else }}
 				<a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+				{{partialCached "languageSwitch.html" . }}
 			{{- end }}
 		{{- end }}
-		{{partialCached "languageSwitch.html" . }}
