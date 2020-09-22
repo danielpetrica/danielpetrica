@@ -2,3 +2,7 @@
 .idea/
 
 themes/hermit/exampleSite/
+
+public/
+
+resources/_gen/assets/scss/scss/

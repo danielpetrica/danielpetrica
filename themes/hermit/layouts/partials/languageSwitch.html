@@ -1,26 +1,6 @@
-{{ $siteLanguages := site.Languages}}
-{{ $pageLang := .Page.Lang}}
-{{- range .Page.AllTranslations }}
-    {{ $translation := . }}
-    {{- range sort $siteLanguages "Weight" "asc" }}
-        {{- if eq $translation.Lang .Lang }}
-            {{ if eq $pageLang .Lang}}
-                <a
-                  rel="alternate"
-                  class="flagselect"
-                  hreflang="{{ .Lang }}"
-                  lang="{{ .Lang }}"
-                  href="{{ $translation.Permalink | relURL }}"
-                >{{ .Params.languageFlag }}</a>
-            {{ else }}
-                <a
-                  rel="alternate"
-                  class="flagnoselect"
-                  hreflang="{{ .Lang }}"
-                  lang="{{ .Lang }}"
-                  href="{{ $translation.Permalink | relURL }}"
-                >{{ .Params.languageFlag }}</a>
-            {{ end }}
-        {{- end }}
-    {{- end }}
-{{- end }}
+<span class="">
+{{ range $.Site.Home.AllTranslations }}
+<a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+{{ end }}
+</span>
+
