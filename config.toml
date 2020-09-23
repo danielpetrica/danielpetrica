@@ -1,7 +1,7 @@
 baseURL = "https://danielpetrica.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Andrei Daniel Petrica Website"
+title = "Andrei Daniel Petrica"
 theme = "hermit"
 enableGitInfo = true
 pygmentsCodefences  = true
@@ -21,15 +21,16 @@ defaultContentLanguageInSubdir = false
     languageFlag = "🇬🇧"
     weight = 1
     description = "Andrei Daniel Petrica Full Stack Developer in Reggio Emilia, Italy. Working with Laravel, Vue.js and Sql"
-    homeSubtitle = "My place on the web to call my own home 🏡"
+    homeSubtitle = "Full Stack Developer in Reggio Emilia, Italy. \n Working with Laravel, Vue.js and Sql"
+
 
   [languages.it]
     languageName = "🇮🇹"
     languageNameShort = "🇮🇹"
     languageFlag = "🇮🇹"
     weight = 2
-    homeSubtitle = "Il mio luogo sul web  da chiamare casa 🏡"
     description  = "Andrei Daniel Petrica Full Stack Developer a Reggio Emilia, Italia. Lavora con Laravel, Vue.js e Sql"
+    homeSubtitle  = "Full Stack Developer a Reggio Emilia, Italia. \n Lavora con Laravel, Vue.js e Sql"
 
 
 [author]
