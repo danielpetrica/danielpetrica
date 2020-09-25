@@ -23,3 +23,34 @@
 <!-- Output all taxonomies as schema.org keywords -->
 <meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
 {{- end }}
+
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org/",
+		"@type": "Website",
+		"about": {{ site.Params.description }},
+		"author": {
+				"@context": "https://schema.org/",
+				"@type": "Person",
+				"name": "Andrei Daniel Petrica",
+				"url": "https://danielpetrica.com",
+				"image": "https://danielpetrica.com/photo.jpg",
+				"jobTitle": "Full stack Developer",
+				"worksFor": {
+					"@type": "Organization",
+					"name": "Mow.it"
+				},
+				"address" : "Reggio Emilia, Italia",
+				"knowsAbout": "PHP, Laravel, Vue.js, Programming, Sql",
+				"knowsLanguage": ["it-IT", "en-US", "ro-Ro"],
+				"sameAs": [
+					"https://www.facebook.com/andrei.daniel.petrica",
+					"https://twitter.com/daniel_petrica/",
+					"https://www.instagram.com/daniel.petrica/",
+					"https://www.linkedin.com/in/petricadaniel/",
+					"https://github.com/danielpetrica"
+				]
+			},
+	}
+</script>
+

@@ -32,6 +32,7 @@
 			  >
 				  <a itemprop="item" href="/">
 					  <span itemprop="name">Home</span>
+					  <meta itemprop="position" content="1" />
 				  </a>
 			  </span>
 			>
@@ -49,6 +50,7 @@
 				      >
 					      <span itemprop="name">{{ . }}</span>
 				      </a>
+							<meta itemprop="position" content="2" />
 			      </span>
 			{{ $.Scratch.Add "path" "/" }}
 			{{ end }}
