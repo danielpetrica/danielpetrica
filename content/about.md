@@ -3,7 +3,6 @@ title: 'About me'
 date: 2020-09-15T13:112:00+01:00
 draft: false
 ---
-# Who I am
 
 Full stack developer coding with web technologies like  Laravel, Vue.js and Sql. 
 
