@@ -1,6 +1,6 @@
 ---
 title: 'About me'
-date: 2020-09-15T13:112:00+01:00
+date: 2020-09-28T13:112:00+01:00
 draft: false
 ---
 
@@ -12,9 +12,10 @@ Nerdy on the inside I'm driven by curiosity, and the need to continuously learn 
 
 Currently, employed at [Mow.it](https://mow.it).
 
-as a full stack web 
- developer taking care of all aspects of webdevelopment, from the
-  server and database infrastructure to the frontend development. 
+Worked for [Timeneye.com](https://Timeneye.com) 
+and [Saleswith.it](https://saleswith.it) as a full stack web
+ developer taking care of all sides of web development, from the server 
+ and database infrastructure to the frontend development. 
  
  Some skills and technologies on my toolkit are: 
  - Git
