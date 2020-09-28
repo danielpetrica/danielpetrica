@@ -9,7 +9,7 @@ Programmatore full stack che sviluppa con tecnologie web come Laravel, Vue.js e 
 
 Basato a Reggio Emilia, Italia.
 
-Nerd, sono spinto dalla curiosità e dal bisogno d'imparare continuamente nuove cose.
+Nerd, sono spinto dalla curiosità e dal bisogno d' imparare continuamente nuove cose.
 
 Ho iniziato 
 
