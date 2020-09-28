@@ -1,11 +1,19 @@
-# Hello :wave:, I'm Andrei-Daniel Petrica, 
+# Hello 👋🏻, I'm Andrei-Daniel Petrica, 
 ### Please call me Daniel. 
 
 I'm a software developer focusing on web technologies. 
 
-In my free time I like to contribute to some opensource projets. 
 
-Currently working for Mow srl in Reggio Emilia, Italy.
+I created my first Git repo in 2016 and since then I've never stopped 
+exploring and experiencing with computers and programming.  
+
+
+Currently, working for Mow srl in Reggio Emilia, Italy.
+
+
+Discover more about me on my personal website 
+[danielpetrica.com](https://danielpetrica.com) built with hugo and
+ hosted with web technologies here on github pages. 
 
 <!--
 **danielpetrica/danielpetrica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
