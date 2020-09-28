@@ -10,8 +10,6 @@ Basato a Reggio Emilia, Italia.
 
 Nerd, sono spinto dalla curiosità e dal bisogno d' imparare continuamente nuove cose.
 
-Ho iniziato 
-
 Attualmente, impiegato presso [Mow.it](https://mow.it) dal 2020.
 
 Ho lavorato per [Timeneye.com](https://Timeneye.com) e [Saleswith.it](https://saleswith.it) 
