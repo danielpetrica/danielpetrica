@@ -23,7 +23,15 @@
 {{ end }}{{ end }}{{ end }}
 
 <!-- Output all taxonomies as schema.org keywords -->
-<meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
+<meta
+	itemprop="keywords"
+	content="web developer reggio emilia,{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}"
+/>
+{{else -}}
+<meta
+	itemprop="keywords"
+	content="Web developer Reggio Emilia, Andrei Daniel Petrica, Full Stack Develoer Reggio Emilia, Programatore web Reggio Emilia, Svilupatore Web Reggio Emilia, Reggio Emilia, Developer Reggio Emilia"
+/>
 {{- end }}
 
 <script type="application/ld+json">
