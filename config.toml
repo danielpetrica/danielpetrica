@@ -21,8 +21,10 @@ defaultContentLanguageInSubdir = false
     languageFlag = "🇬🇧"
     weight = 1
     description = "Andrei Daniel Petrica Full Stack Developer in Reggio Emilia, Italy. Working with Laravel, Vue.js and Sql"
-    homeSubtitle = "Full Stack Developer in Reggio Emilia, Italy. \n Working with Laravel, Vue.js and Sql"
-
+    homeSubtitle = """
+     I'm a Full Stack Developer in the province of Reggio Emilia, Italy.
+     Focusing on Web technologies, I'm currently working with Laravel, Vue.js and Sql
+     """
 
   [languages.it]
     languageName = "🇮🇹"
@@ -30,8 +32,10 @@ defaultContentLanguageInSubdir = false
     languageFlag = "🇮🇹"
     weight = 2
     description  = "Andrei Daniel Petrica Full Stack Developer a Reggio Emilia, Italia. Lavora con Laravel, Vue.js e Sql"
-    homeSubtitle  = "Full Stack Developer a Reggio Emilia, Italia. \n Lavora con Laravel, Vue.js e Sql"
-
+    homeSubtitle  = """
+    Sono un Full Stack Developer nella provincia di Reggio Emilia, Italia.
+    Focalizandomi sulle tecnologie web, sto attualmente lavorando con Laravel, Vue.js e Sql
+    """
 
 [author]
   name = "Daniel, Andrei-Daniel Petrica"
