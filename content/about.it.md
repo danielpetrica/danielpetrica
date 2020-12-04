@@ -27,3 +27,5 @@ Alcune competenze e tecnologie nel mio kit di strumenti sono:
  - CSS
  - Boostrap
 
+Occasionalmente creo progetti open source, se sei interessato puoi scoprirli sulla mia pagina
+[Github](https://github.com/danielpetrica).

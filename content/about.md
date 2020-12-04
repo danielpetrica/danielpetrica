@@ -26,3 +26,6 @@ and [Saleswith.it](https://saleswith.it) as a full stack web
  - jQuery
  - CSS
  - Boostrap
+
+I occasionally build open source projects, you can discover them on my
+ [Github](https://github.com/danielpetrica) page.

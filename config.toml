@@ -21,10 +21,15 @@ defaultContentLanguageInSubdir = false
     languageFlag = "🇬🇧"
     weight = 1
     description = "Andrei Daniel Petrica Full Stack Developer in Reggio Emilia, Italy. Working with Laravel, Vue.js and Sql"
-    homeSubtitle = """
-     I'm a Full Stack Developer in the province of Reggio Emilia, Italy.
-     Focusing on Web technologies, I'm currently working with Laravel, Vue.js and Sql
-     """
+    homeSubtitle = '''
+I'm a Full Stack Developer in the province of Reggio Emilia, Italy.
+
+Focusing on Web technologies, I'm currently working with Laravel, Vue.js and Sql.
+
+I occasionally build open source projects, you can discover them on my
+ [Github](https://github.com/danielpetrica) page.
+
+     '''
 
   [languages.it]
     languageName = "🇮🇹"
@@ -32,10 +37,15 @@ defaultContentLanguageInSubdir = false
     languageFlag = "🇮🇹"
     weight = 2
     description  = "Andrei Daniel Petrica Full Stack Developer a Reggio Emilia, Italia. Lavora con Laravel, Vue.js e Sql"
-    homeSubtitle  = """
-    Sono un Full Stack Developer nella provincia di Reggio Emilia, Italia.
-    Focalizandomi sulle tecnologie web, sto attualmente lavorando con Laravel, Vue.js e Sql
-    """
+    homeSubtitle  = '''
+Sono un Full Stack Developer nella provincia di Reggio Emilia, Italia.
+
+Focalizandomi sulle tecnologie web, sto attualmente lavorando con Laravel, Vue.js e Sql
+
+Occasionalmente creo progetti open source, se sei interesato puoi scoprirle sulla mia pagina
+[Github](https://github.com/danielpetrica).
+'''
+
 
 [author]
   name = "Daniel, Andrei-Daniel Petrica"
@@ -50,7 +60,7 @@ defaultContentLanguageInSubdir = false
   # Categories are disabled by default.
 
 [params]
-  dateform        = "Jan 2, 2006"
+  dateform        = " 2 Jan 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
@@ -70,7 +80,7 @@ defaultContentLanguageInSubdir = false
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
   justifyContent = false  # Set "text-align: justify" to `.content`.
 
-  relatedPosts = false  # Add a related content section to all single posts page
+  relatedPosts = true  # Add a related content section to all single posts page
 
   # Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]

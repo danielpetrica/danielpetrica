@@ -23,7 +23,7 @@
 			
 			<h1 id="home-title">{{ .Site.Title }}</h1>
 			{{- with .Site.Params.homeSubtitle }}
-			<p id="home-subtitle" style="max-width: 700px">{{.}}</p>
+			<div id="home-subtitle" style="max-width: 700px">{{. | markdownify}}</div>
 			{{- end }}
 			{{- with .Site.Params.social }}
 			<div id="home-social">
