@@ -13,7 +13,7 @@ Currently, working for Mow srl in Reggio Emilia, Italy.
 
 Discover more about me on my personal website 
 [danielpetrica.com](https://danielpetrica.com) built with hugo and
- hosted with web technologies here on github pages. 
+ hosted here on github pages. 
 
 <!--
 **danielpetrica/danielpetrica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
