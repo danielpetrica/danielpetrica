@@ -15,7 +15,7 @@ Discover more about me on my personal website
 [danielpetrica.com](https://danielpetrica.com) built with hugo and
  hosted here on github pages. 
 
-
+----
 #### Personal webiste uptime: 
 
 <a href="https://uptime.danielpetrica.com/history/danielpetrica-com"><img alt="All-time uptime " src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielpetrica%2Fuptime%2FHEAD%2Fapi%2Fdanielpetrica-com%2Fuptime.json"></a><br><a href="https://uptime.danielpetrica.com/history/danielpetrica-com"><img alt="24-hour uptime " src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielpetrica%2Fuptime%2FHEAD%2Fapi%2Fdanielpetrica-com%2Fuptime-day.json"></a><br><a href="https://uptime.danielpetrica.com/history/danielpetrica-com"><img alt="7-day uptime" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielpetrica%2Fuptime%2FHEAD%2Fapi%2Fdanielpetrica-com%2Fuptime-week.json"></a><br><a href="https://uptime.danielpetrica.com/history/danielpetrica-com"><img alt="30-day uptime " src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielpetrica%2Fuptime%2FHEAD%2Fapi%2Fdanielpetrica-com%2Fuptime-month.json"></a><br><a href="https://uptime.danielpetrica.com/history/danielpetrica-com"><img alt="1-year uptime " src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielpetrica%2Fuptime%2FHEAD%2Fapi%2Fdanielpetrica-com%2Fuptime-year.json"></a>
