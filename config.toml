@@ -8,7 +8,7 @@ pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
 rssLimit = 25  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "" # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
@@ -20,14 +20,13 @@ defaultContentLanguageInSubdir = false
     languageNameShort = "🇬🇧"
     languageFlag = "🇬🇧"
     weight = 1
-    description = "Andrei Daniel Petrica Full Stack Developer in Reggio Emilia, Italy. Working with Laravel, Vue.js and Sql"
+    description = "Andrei Daniel Petrica Full Stack Developer in Reggio Emilia, Italy. Working with Laravel, Vue.js and Sql (Mysql)"
     homeSubtitle = '''
 I'm a Full Stack Developer in the province of Reggio Emilia, Italy.
 
 Focusing on Web technologies, I'm currently working with Laravel, Vue.js and Sql.
 
-I occasionally build open source projects, you can discover them on my
- [Github](https://github.com/danielpetrica) page.
+I occasionally build open source projects, you can discover them on [Github](https://github.com/danielpetrica) page.
 
      '''
 
@@ -36,14 +35,13 @@ I occasionally build open source projects, you can discover them on my
     languageNameShort = "🇮🇹"
     languageFlag = "🇮🇹"
     weight = 2
-    description  = "Andrei Daniel Petrica Full Stack Developer a Reggio Emilia, Italia. Lavora con Laravel, Vue.js e Sql"
+    description  = "Andrei Daniel Petrica Full Stack Developer a Reggio Emilia, Italia. Lavoro con Laravel, Vue.js e Sql (Mysql)"
     homeSubtitle  = '''
 Sono un Full Stack Developer nella provincia di Reggio Emilia, Italia.
 
 Focalizandomi sulle tecnologie web, sto attualmente lavorando con Laravel, Vue.js e Sql
 
-Occasionalmente creo progetti open source, se sei interesato puoi scoprirle sulla mia pagina
-[Github](https://github.com/danielpetrica).
+Occasionalmente creo progetti open source, se sei interesato puoi scoprirle su [Github](https://github.com/danielpetrica).
 '''
 
 
@@ -71,7 +69,7 @@ Occasionalmente creo progetti open source, se sei interesato puoi scoprirle sull
   # Metadata mostly used in document's head
   images = [ "/photo.jpg" ]
   themeColor = "#494f5c"
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  footerCopyright = 'Puoi ispezionare il codice del sito su [Github](https://github.com/danielpetrica/danielpetrica)'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
@@ -107,9 +105,9 @@ Occasionalmente creo progetti open source, se sei interesato puoi scoprirle sull
     name = "stackoverflow"
     url = "https://stackoverflow.com/users/4928374/"
 
-  [[params.social]]
-    name = "keybase"
-    url = "https://keybase.io/danielpetrica"
+  #[[params.social]]
+  #  name = "keybase"
+  #  url = "https://keybase.io/danielpetrica"
 
 [menu]
 #
