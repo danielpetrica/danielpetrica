@@ -70,7 +70,7 @@ Occasionalmente creo progetti open source, se sei interesato puoi scoprirle su [
   images = [ "/photo.jpg" ]
   themeColor = "#494f5c"
   footerCopyright = '''
-  Puoi ispezionare il codice del sito su Github a https://github.com/danielpetrica/danielpetrica
+  Puoi ispezionare il codice del sito su Github
   '''
   # bgImg = ""  # Homepage background-image URL
 
