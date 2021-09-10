@@ -7,7 +7,7 @@ enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
-rssLimit = 25  # Maximum number of items in the RSS feed.
+rssLimit = 5  # Maximum number of items in the RSS feed.
 copyright = "" # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
@@ -69,7 +69,9 @@ Occasionalmente creo progetti open source, se sei interesato puoi scoprirle su [
   # Metadata mostly used in document's head
   images = [ "/photo.jpg" ]
   themeColor = "#494f5c"
-  footerCopyright = 'Puoi ispezionare il codice del sito su [Github](https://github.com/danielpetrica/danielpetrica)'
+  footerCopyright = '''
+  Puoi ispezionare il codice del sito su [Github](https://github.com/danielpetrica/danielpetrica)
+  '''
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
