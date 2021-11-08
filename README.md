@@ -8,7 +8,7 @@ I created my first Git repo in 2016 and since then I've never stopped
 exploring and experiencing with computers and programming.  
 
 
-Currently, working for Mow srl in Reggio Emilia, Italy.
+Currently, working for WarrantHub in Correggio, Italy.
 
 
 Discover more about me on my personal website 
