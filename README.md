@@ -14,3 +14,5 @@ Currently, working for WarrantHub in Correggio, Italy.
 Discover more about me on my personal website 
 [danielpetrica.com](https://danielpetrica.com) built with hugo and
  hosted here on github pages
+
+I occasionally publish photos on Unsplash, here's my profile: https://unsplash.com/@danielpetrica
