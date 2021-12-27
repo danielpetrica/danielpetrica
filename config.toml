@@ -1,4 +1,4 @@
-baseURL = "https://danielpetrica.com/"
+baseURL = ${{ BASEURL }}
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Andrei Daniel Petrica"
