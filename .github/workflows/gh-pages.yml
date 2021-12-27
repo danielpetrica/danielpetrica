@@ -1,6 +1,7 @@
 name: github pages
 
 on:
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -19,12 +20,12 @@ jobs:
 
       - name: Build
         run: hugo --minify
+# Disabled as it now runs on vercel
+#       - name: Set Cname
+#         run: cp ./CNAME  ./public/CNAME
 
-      - name: Set Cname
-        run: cp ./CNAME  ./public/CNAME
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+#       - name: Deploy
+#         uses: peaceiris/actions-gh-pages@v3
+#         with:
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
+#           publish_dir: ./public
