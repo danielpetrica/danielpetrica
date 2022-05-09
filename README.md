@@ -14,6 +14,8 @@ Discover more about me on my personal website [danielpetrica.com](https://danie
 
 I occasionally publish photos on Unsplash, here's my profile: https://unsplash.com/@danielpetrica
 
+I have a remoteok profile, see it here [https://remoteok.com/@danielpetrica](https://remoteok.com/@danielpetrica)
+
 My long time dream is to move to Japan :japan: :jp:  , so I can accept a job proposal helping me to get there.
 
 I have a thing called [Dysorthography](https://en.wikipedia.org/wiki/Dysorthography), so if you find any typo please signal it to me.
