@@ -1,5 +1,5 @@
 # Hello 👋🏻, I'm Andrei-Daniel Petrica, 
-##### Please call me Daniel.
+### Please call me Daniel.
 I'm a software developer focusing on web technologies.
 
 I created my first Git repo in 2016 and since then I've never stopped exploring and experiencing with computers and programming.
