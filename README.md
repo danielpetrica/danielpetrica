@@ -10,7 +10,7 @@ I usually code in PHP, JS and I store data with SQL databases (mainly MySQL) and
 
 I tend to prefer TypeScript and Vue3 when possible. 
 
-Discover more about me on my personal website [danielpetrica.com](https://danielpetrica.com) built with Hugo and hosted on [vercel.com](https://vercel.com)
+Discover more about me on my personal website [danielpetrica.com](https://danielpetrica.com) it's built with [Ghost](https://github.com/TryGhost/ghost) and hosted with [Dokku](https://github.com/dokku/dokku). 
 
 I occasionally publish photos on Unsplash, here's my profile: https://unsplash.com/@danielpetrica
 
