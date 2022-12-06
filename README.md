@@ -18,17 +18,16 @@ I tend to prefer TypeScript and Vue3 when possible. 
 
 Discover more about me on my personal website [danielpetrica.com](https://danielpetrica.com) it's built with [Ghost](https://github.com/TryGhost/ghost) and hosted with [Dokku](https://github.com/dokku/dokku). 
 
+I occasionally publish photos on Unsplash, here's my profile: https://unsplash.com/@danielpetrica
+
+I have a remoteok profile, see it here [https://remoteok.com/@danielpetrica](https://remoteok.com/@danielpetrica)
+
 #### 📩 Latest Posts on my site:
 
 <!-- BLOG-POST-LIST:START -->
 - [How to update Dokku](https://danielpetrica.com/how-to-update-dokku/)
 - [Update your deployed dokku apps with n8n](https://danielpetrica.com/update-your-deployed-dokku-apps-with-n8n/)
 <!-- BLOG-POST-LIST:END -->
-
-
-I occasionally publish photos on Unsplash, here's my profile: https://unsplash.com/@danielpetrica
-
-I have a remoteok profile, see it here [https://remoteok.com/@danielpetrica](https://remoteok.com/@danielpetrica)
 
 ## Personal stuff
 
