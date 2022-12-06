@@ -21,6 +21,8 @@ Discover more about me on my personal website [danielpetrica.com](https://danie
 #### 📩 Latest Posts on my site:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to update Dokku](https://danielpetrica.com/how-to-update-dokku/)
+- [Update your deployed dokku apps with n8n](https://danielpetrica.com/update-your-deployed-dokku-apps-with-n8n/)
 <!-- BLOG-POST-LIST:END -->
 
 
