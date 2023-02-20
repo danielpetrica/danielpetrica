@@ -1,4 +1,4 @@
-# Hello 👋🏻, I'm Andrei-Daniel Petrica, 
+# Hello 👋🏻, I'm Andrei-Daniel Petrica [![wakatime](https://wakatime.com/badge/user/a7e7e46e-a3f7-4ca4-b653-d55e31a31bd7.svg)](https://wakatime.com/@a7e7e46e-a3f7-4ca4-b653-d55e31a31bd7)
 #### Please call me Daniel.
 I'm a software developer focusing on web technologies.
 
