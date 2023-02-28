@@ -25,6 +25,7 @@ I have a remoteok profile, see it here [https://remoteok.com/@danielpetrica](htt
 #### 📩 Latest Posts on my site:
 
 <!-- BLOG-POST-LIST:START -->
+- [From Dokku to Traefik, migration of a blog](https://danielpetrica.com/ghost-blog-migration-how-i-mov/)
 - [How to update Dokku](https://danielpetrica.com/how-to-update-dokku/)
 - [Update your deployed dokku apps with n8n](https://danielpetrica.com/update-your-deployed-dokku-apps-with-n8n/)
 <!-- BLOG-POST-LIST:END -->
