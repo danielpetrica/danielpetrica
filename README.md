@@ -25,6 +25,7 @@ I have a remoteok profile, see it here [https://remoteok.com/@danielpetrica](htt
 #### 📩 Latest Posts on my site:
 
 <!-- BLOG-POST-LIST:START -->
+- [Come usare ChatGpt in Italia](https://danielpetrica.com/usare-chatgpt-in-italia/)
 - [Easy database backups with docker-compose](https://danielpetrica.com/easy-database-backups-with-docker-compose/)
 - [From Dokku to Traefik, migration of a blog](https://danielpetrica.com/ghost-blog-migration-how-i-mov/)
 - [How to update Dokku](https://danielpetrica.com/how-to-update-dokku/)
