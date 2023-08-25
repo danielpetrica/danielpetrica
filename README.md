@@ -1,7 +1,7 @@
 # Hello 👋🏻, I'm Andrei-Daniel Petrica [![wakatime](https://wakatime.com/badge/user/a7e7e46e-a3f7-4ca4-b653-d55e31a31bd7.svg)](https://wakatime.com/@a7e7e46e-a3f7-4ca4-b653-d55e31a31bd7)
 #### Please call me Daniel.
 I'm a software developer focusing on web technologies.
-
+[![typograssy]( https://typograssy.deno.dev/api?text=Welcome! )](https://github.com/kawarimidoll/typograssy)
 I have a profile on the Fediverse, connect with me at <a rel="me" href="https://mastodon.grozav.dev/@pad">https://mastodon.grozav.dev/@pad</a>
 
 I created my first Git repo in 2016 and since then I've never stopped exploring and experiencing with computers and programming.
