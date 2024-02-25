@@ -22,7 +22,7 @@ Discover more about me on my personal website <a href="https://danielpetrica.co
 #### 📩 Latest Posts on my site:
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Activepieces with docker compose and Traefik](https://danielpetrica.com/installing-activepieces-with-docker-compose-and-traefik/)
+- [Installing Activepieces with docker compose and Traefik for self-hosted automation](https://danielpetrica.com/installing-activepieces-with-docker-compose-and-traefik/)
 - [A random image API for your next project](https://danielpetrica.com/api-for-random-images-to-use-du/)
 - [Install Outline with docker compose and Traefik](https://danielpetrica.com/host-outline-with-docker-compose-and-traefik/)
 - [Come usare ChatGpt in Italia](https://danielpetrica.com/usare-chatgpt-in-italia/)
