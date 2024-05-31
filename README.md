@@ -22,11 +22,11 @@ Discover more about me on my personal website <a href="https://danielpetrica.co
 #### 📩 Latest Posts on my site:
 
 <!-- BLOG-POST-LIST:START -->
+- [Track Code deployments in New Relic with Laravel commands](https://danielpetrica.com/track-code-deployments-in-new-relic-with-laravel-commands/)
 - [Installing Activepieces with docker compose and Traefik for self-hosted automation](https://danielpetrica.com/installing-activepieces-with-docker-compose-and-traefik/)
 - [A random image API for your next project](https://danielpetrica.com/api-for-random-images-to-use-du/)
 - [Install Outline with docker compose and Traefik](https://danielpetrica.com/host-outline-with-docker-compose-and-traefik/)
 - [Come usare ChatGpt in Italia](https://danielpetrica.com/usare-chatgpt-in-italia/)
-- [Easy database backups with docker-compose](https://danielpetrica.com/easy-database-backups-with-docker-compose/)
 <!-- BLOG-POST-LIST:END -->
 
 I occasionally publish photos on Unsplash, here's my profile: https://unsplash.com/@danielpetrica
