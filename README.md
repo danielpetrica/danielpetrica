@@ -1,7 +1,7 @@
 # Hello 👋🏻, I'm Andrei-Daniel Petrica
 
 #### Please call me Daniel.
-I'm a software developer focusing on web technologies.
+I'm a software developer and Devops consultant focusing on web technologies.
 
 I have a profile on the Fediverse, connect with me at <a rel="me" href="https://infosec.exchange/@danielpetrica">https://infosec.exchange/@danielpetrica</a>
 
