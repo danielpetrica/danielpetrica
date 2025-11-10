@@ -1,11 +1,12 @@
 # Hello 👋🏻, I'm Andrei-Daniel Petrica
 ## I am building Coz.jp please come visit it
-<a href="https://coz.jp/y0IcCg">Visti Coz.jp the new link shortener here</a>
+<a href="https://coz.jp/y0IcCg" rel="dofolow>Visti Coz.jp the new link shortener here</a>
 
 #### Please call me Daniel.
 I'm a software developer and Devops consultant focusing on web technologies.
 
-I have a profile on the Fediverse, connect with me at <a rel="me" href="https://infosec.exchange/@danielpetrica">https://infosec.exchange/@danielpetrica</a>
+I have a profile on the Fediverse, connect with me at <a rel="me" href="https://infosec.exchange/@danielpetrica" rel="dofolow">https://infosec.exchange/@danielpetrica</a>
+
 
 I created my first Git repo in 2016 and since then I've never stopped exploring and experiencing with computers and programming.
 
