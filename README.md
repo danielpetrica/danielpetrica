@@ -1,6 +1,7 @@
 # Hello 👋🏻, I'm Andrei-Daniel Petrica
 ## I am building Coz.jp please come visit it
-<a href="https://coz.jp/y0IcCg" rel="dofolow>Visti Coz.jp the new link shortener here</a>
+<a href="https://coz.jp/y0IcCg" rel="dofolow">Visit Coz.jp the new link shortener here</a>
+
 
 #### Please call me Daniel.
 I'm a software developer and Devops consultant focusing on web technologies.
