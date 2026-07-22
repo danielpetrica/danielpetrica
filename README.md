@@ -1,44 +1,25 @@
-# Hello 👋🏻, I'm Andrei-Daniel Petrica
-## I am building Coz.jp please come visit it
-<a href="https://coz.jp/y0IcCg" rel="dofolow">Visit Coz.jp the new link shortener here</a>
+# Hello, I'm Daniel Petrica
 
+I'm a software developer and DevOps consultant living in Tokyo, Japan, where I'm also studying Japanese (preparing for the JLPT N4).
 
-#### Please call me Daniel.
-I'm a software developer and Devops consultant focusing on web technologies.
+## What I build
 
-I have a profile on the Fediverse, connect with me at <a rel="me" href="https://infosec.exchange/@danielpetrica" rel="dofolow">https://infosec.exchange/@danielpetrica</a>
+**[LaraPlugins.io](https://laraplugins.io)** — a Laravel package directory to help developers find healthy, secure packages before they install them.
 
+**[danielpetrica.com](https://danielpetrica.com)** — my personal site, built with Ghost and hosted with Docker Compose + Traefik.
 
-I created my first Git repo in 2016 and since then I've never stopped exploring and experiencing with computers and programming.
+**Looking for a freelance developer?** → [danielpetrica.com/work-with-me/](https://danielpetrica.com/work-with-me/)
 
-## Work 
+## Work
 
+I usually code in PHP and JavaScript, and store data with SQL databases (mainly MySQL) and occasionally NoSQL. I tend to prefer TypeScript and Vue.js for frontends and Laravel for backend development. I also do DevOps and server management with Docker, Traefik, and CI/CD pipelines.
 
-I usually code in PHP, JS and I store data with SQL databases (mainly MySQL) and rarely NoSQL ones too. 
-
-I tend to prefer TypeScript and Vue.js for frontends and Laravel for backedn development. 
+I created my first Git repo in 2016 and I haven't stopped exploring since.
 
 ## Links
 
-Discover more about me on my personal website <a href="https://danielpetrica.com" rel="me">danielpetrica.com</a> it's built with [Ghost](https://github.com/TryGhost/ghost) and hosted with Docker Compose + Traefik. 
+- Fediverse: [@danielpetrica@infosec.exchange](https://infosec.exchange/@danielpetrica)
 
+## Personal
 
-#### 📩 Latest Posts on my site:
-
-<!-- BLOG-POST-LIST:START -->
-- [Track Code deployments in New Relic with Laravel commands](https://danielpetrica.com/track-code-deployments-in-new-relic-with-laravel-commands/)
-- [Installing Activepieces with docker compose and Traefik for self-hosted automation](https://danielpetrica.com/installing-activepieces-with-docker-compose-and-traefik/)
-- [A random image API for your next project](https://danielpetrica.com/api-for-random-images-to-use-du/)
-- [Install Outline with docker compose and Traefik](https://danielpetrica.com/host-outline-with-docker-compose-and-traefik/)
-- [Come usare ChatGpt in Italia](https://danielpetrica.com/usare-chatgpt-in-italia/)
-<!-- BLOG-POST-LIST:END -->
-
-I occasionally publish photos on Unsplash, here's my profile: https://unsplash.com/@danielpetrica
-
-I have a remoteok profile, see it here [https://remoteok.com/@danielpetrica](https://remoteok.com/@danielpetrica)
-
-## Personal stuff
-
-My long time dream is to move to Japan :japan:, so I can accept a job proposal helping me to get there.
-
-I have a thing called [Dysorthography](https://en.wikipedia.org/wiki/Dysorthography), so if you find any typo please signal it to me.
+I have something called [Dysorthography](https://en.wikipedia.org/wiki/Dysorthography) — if you spot a typo, let me know and I'll fix it.
