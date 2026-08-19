@@ -4,9 +4,12 @@ I'm a software developer and DevOps consultant living in Tokyo, Japan, where I'm
 
 ## What I build
 
-**[LaraPlugins.io](https://laraplugins.io)** — a Laravel package directory to help developers find healthy, secure packages before they install them.
+**[LaraPlugins.io](https://laraplugins.io)** — the Laravel package directory to help developers find healthy, secure packages before they install them. The first with automated health scores. 
 
 **[danielpetrica.com](https://danielpetrica.com)** — my personal site, built with Ghost and hosted with Docker Compose + Traefik.
+
+**[seo.danielpetrica.com](https://seo.danielpetrica.com)** — Automaed continuos on page seo anay\lysis to help your projects rank on search engines and ai bots.
+
 
 **Looking for a freelance developer?** → [danielpetrica.com/work-with-me/](https://danielpetrica.com/work-with-me/)
 
